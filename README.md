@@ -51,5 +51,6 @@ readDate() will read the date data of HEAT.xls for one sensor and return a list 
 
 calHC() will make a dataframe which contains date and temperature and group the dataframe by date to calculate means of temperature. Finally it will find the highest value of temperature and the lowest, to find the hottest and the coldest day.
 
-
+# geo1001_hw01WANGlatex_v2.zip
+My latex code and pdf are in this zip with pictures used in latex code. 
 
